@@ -117,10 +117,6 @@ K10
 
 The agent uses the alpha-beta pruning algorithm to evaluate possible moves and select the best one. It considers both regular moves and capture moves to determine the most advantageous position. The evaluation function assesses the board based on the number of connected pieces, potential captures, and the overall game state.
 
-## Deployment
-
-This project does not require specific deployment steps as it is designed to be run locally for the purpose of the CSCI-561 Foundations of Artificial Intelligence course.
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
@@ -135,4 +131,4 @@ Contributions are welcome! If you have suggestions or improvements, please creat
 
 ---
 
-Thank you for using and contributing to the Pente Game Agent! If you have any questions or need further assistance, feel free to open an issue or contact us at [your-email@example.com].
+Thank you for using and contributing to the Pente Game Agent! If you have any questions or need further assistance, feel free to open an issue or contact me at [your-email@example.com].
