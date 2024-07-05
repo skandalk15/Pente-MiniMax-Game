@@ -12,7 +12,6 @@ This project implements an agent that plays the game of Pente, a two-player abst
 6. [Algorithm](#algorithm)
 7. [Deployment](#deployment)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Project Description
 
@@ -41,7 +40,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/pente-game-agent.git
+git clone https://github.com/skandalk15/Pente-MiniMax-Game.git
 cd pente-game-agent
 ```
 
